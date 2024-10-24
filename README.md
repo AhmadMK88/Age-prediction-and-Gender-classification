@@ -1,8 +1,9 @@
-# Age-prediction-and-Gender-classification
-A Deep-Learning / Computer-Vision Project for classifying images by its gender and predicting its age
+# Age and Gender Classification Project
 
-##How to use the project:
+A deep learning and computer vision project designed to classify images by gender and predict age using UTK face dataset.
 
-the " age and gender detection.ipynb " is the modules used for the predections
-to use the modules you can add your image in the same folder as the ipynb files are at then open "prediction.ipynb" and add your wanted image path to the 
-predict_img function
+## How to Use
+
+1. The core module for predictions is provided in the file `age_and_gender_detection.ipynb`.
+2. To make predictions, place your image in the same directory as the Jupyter notebook files.
+3. Open `prediction.ipynb`, and pass the path of your image to the `predict_img` function to get the results.
